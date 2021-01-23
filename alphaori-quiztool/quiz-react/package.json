@@ -1,0 +1,51 @@
+{
+  "name": "quiz-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.3.0",
+    "bootstrap": "^4.3.1",
+    "final-form": "^4.18.2",
+    "final-form-arrays": "^3.0.1",
+    "font-awesome": "^4.7.0",
+    "material-ui": "^0.20.2",
+    "material-ui-treeview": "^3.3.0",
+    "react": "^16.8.6",
+    "react-center": "^1.1.1",
+    "react-dom": "^16.8.6",
+    "react-final-form": "^6.3.0",
+    "react-final-form-arrays": "^3.1.0",
+    "react-list": "^0.8.11",
+    "react-redux": "^7.1.0",
+    "react-redux-form": "^1.16.14",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "reactstrap": "^8.0.1",
+    "redux": "^4.0.4",
+    "redux-form": "^8.2.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

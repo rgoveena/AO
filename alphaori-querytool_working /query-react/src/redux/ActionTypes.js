@@ -1,0 +1,4 @@
+export const ADD_QUERYRESULT = 'ADD_QUERYRESULT';
+export const CONNECT_STATUS = 'CONNECT_STATUS';
+export const API_RESPONSE = 'API_RESPONSE';
+export const ADD_DETAILS = 'ADD_DETAILS';
